@@ -4,7 +4,6 @@ This Github repository is dedicated to my independent and small projects and exp
 # Contact Info
 
 Email: hayssamsoussi@gmail.com
-Instagram: @HayssamSoussi
 
 # License
 
